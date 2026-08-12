@@ -7,8 +7,8 @@ This repository contains the data cleaning and machine learning code developed f
 - `analysis.ipynb` — Jupyter notebook containing data loading, cleaning, and two machine learning models
 
 ## Datasets
-- **Pedestrian Counting System – Monthly Counts per Hour** (City of Melbourne Open Data)
-- **On-Street Parking Bay Sensors** (City of Melbourne Open Data)
+- **Pedestrian Counting System – Monthly Counts per Hour** (City of Melbourne Open Data)[https://data.melbourne.vic.gov.au/explore/dataset/pedestrian-counting-system-monthly-counts-per-hour/]
+- **On-Street Parking Bay Sensors** (City of Melbourne Open Data)[https://data.melbourne.vic.gov.au/explore/dataset/on-street-parking-bay-sensors/]
 
 ## Models
 - **Decision Tree Classifier** — predicts parking bay occupancy (occupied/unoccupied) from location and zone features
